@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+html, body{
+  height: 100vh;
+  width: 99%;
+}
+body{
+  margin: 0;
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(71,148,238,1) 100%); 
+}
+html{
+  scroll-behavior: smooth;
+}

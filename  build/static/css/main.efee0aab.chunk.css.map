@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CACA,UACE,YACF,CACA,KACE,QAAS,CACT,sBACF,CACA,KACE,sBACF","file":"main.efee0aab.chunk.css","sourcesContent":["*{\r\n  box-sizing: border-box;\r\n}\r\nhtml, body{\r\n  height: 100vh;\r\n}\r\nbody{\r\n  margin: 0;\r\n  background-color: azure;\r\n}\r\nhtml{\r\n  scroll-behavior: smooth;\r\n}"]}
